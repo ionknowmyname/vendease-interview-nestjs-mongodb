@@ -26,7 +26,7 @@ There is one branch: **main**:
 ---
 ## BUILD PROCESS / EXPLANATIONS
 
-- First of all, project might not build and run, didn't get time to test it, weekend was booked. There might be import errors or cyclic dependencies errors.
+- First of all, project might not build and run, didn't get time to test it, my weekend was booked. I was prepping for a meeting that I will be presenting tommorrow. There might be import errors or cyclic dependencies errors.
 
 - I saw the Postgres preference, I used mongoDB coz I had a previous project I could copy-paste and edit from. If I had more time I'd have used TypeORM with Postgres.
 
@@ -39,8 +39,4 @@ the url to the DB so frontend can take it up with CDN to display image via its u
 cloudinary, you can decide to use s3 bucket or whichever.
 
 
----
 
-## EXTRAS
-
-- I added my postman collection, you can use it to bootstrap yours
